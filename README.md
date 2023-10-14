@@ -82,6 +82,7 @@ https://www.programiz.com/java-programming/examples
 - wider range of technologies, larger base to draw from
 - Personal Stories:  Destroy production data, lost weeks of code
 - All Senior Devs have stories like this.  Some are really scary!
+- https://www.reddit.com/r/cscareerquestions/comments/6ez8ag/accidentally_destroyed_production_database_on/
 
 ## Don't Forget Where you Started
 One day, not so long ago, you were just starting. A beginner, that wouldn't be able to pick out an integer from a float. Now you've written full-stack applications, have worked in a team using Git, have not only talked the talk but are walking the walk.
