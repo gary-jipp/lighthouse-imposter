@@ -80,7 +80,7 @@ https://www.programiz.com/java-programming/examples
 - Have experience in searching for new information
 - Don't need as much direction
 - wider range of technologies, larger base to draw from
-- Personal Stories:  Have blown away production data, lost weeks of code
+- Personal Stories:  Destroy production data, lost weeks of code
 - All Senior Devs have stories like this.  Some are really scary!
 
 ## Don't Forget Where you Started
