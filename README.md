@@ -68,14 +68,20 @@ https://www.programiz.com/javascript/examples
 https://www.programiz.com/c-programming/examples
 https://www.programiz.com/java-programming/examples
 
+###
+**************************************
+**************************************
+**************************************
 
 ## Senior Dev vs Junior Dev
 - It's not so much about Skill, more about Experience!
 - Have seen more things go wrong (often have caused it!)
 - They "will" solve the problem, no matter what
-- have experience in searching for new information
-- don't need as much direction
+- Have experience in searching for new information
+- Don't need as much direction
 - wider range of technologies, larger base to draw from
+- Personal Stories:  Have blown away production data, lost weeks of code
+- All Senior Devs have stories like this.  Some are really scary!
 
 ## Don't Forget Where you Started
 One day, not so long ago, you were just starting. A beginner, that wouldn't be able to pick out an integer from a float. Now you've written full-stack applications, have worked in a team using Git, have not only talked the talk but are walking the walk.
